@@ -19,7 +19,7 @@
   },
   "autoload": {
     "psr-4": {
-      "SharpWorker": "src/"
+      "SharpWorker\\": "src/"
     }
   },
   "repositories": [
